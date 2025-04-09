@@ -1,6 +1,6 @@
-# MERN-Blog-Application
+# Blog-Application
 
-This is the **BLog Application** Web App developed using MERN Stack
+This is the **BLog Application** Web App developed using Node.js and MongoDB
 
 I have used MongoDB Atlas as a Database
 
